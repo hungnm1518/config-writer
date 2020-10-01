@@ -1,15 +1,15 @@
 {
-    "name": "larapack/config-writer",
+    "name": "hungnm1518/config-writer",
     "description": "Save changes to the configuration file in script.",
-    "keywords": ["package", "laravel", "larapack", "config", "writer", "save"],
+    "keywords": ["package", "laravel", "config", "writer", "save"],
     "license": "MIT",
     "type": "package",
     "autoload": {
         "psr-4": {
-            "Larapack\\ConfigWriter\\": "src/"
+            "HungNM\\ConfigWriter\\": "src/"
         }
     },
     "require-dev": {
-        "laravel/framework": "^5.3"
+        "laravel/framework": "^7.0"
     }
 }

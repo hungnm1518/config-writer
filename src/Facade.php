@@ -1,6 +1,6 @@
 <?php
 
-namespace Larapack\ConfigWriter;
+namespace HungNM\ConfigWriter;
 
 use Illuminate\Support\Facades\Config;
 

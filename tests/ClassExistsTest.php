@@ -1,8 +1,8 @@
 <?php
-namespace Larapack\ConfigWriter\Tests;
+namespace HungNM\ConfigWriter\Tests;
 
 use PHPUnit_Framework_TestCase;
-use Larapack\ConfigWriter;
+use HungNM\ConfigWriter;
 
 class ClassExistsTest extends PHPUnit_Framework_TestCase
 {

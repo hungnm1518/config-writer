@@ -1,9 +1,9 @@
 <?php
-namespace Larapack\ConfigWriter\Tests;
+namespace HungNM\ConfigWriter\Tests;
 
 use Illuminate\Support\Arr;
 use Illuminate\Container\Container;
-use Larapack\ConfigWriter\Repository;
+use HungNM\ConfigWriter\Repository;
 use PHPUnit_Framework_TestCase;
 
 class ReadmeExampleTest extends PHPUnit_Framework_TestCase
